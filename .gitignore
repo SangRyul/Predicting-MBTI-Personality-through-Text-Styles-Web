@@ -1,0 +1,53 @@
+#frontend ignore
+frontend/.DS_Store
+frontend/node_modules
+frontend/dist
+
+
+# local env files
+frontend/.env.local
+frontend/.env.*.local
+
+# Log files
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# Editor directories and files
+frontend/.idea
+frontend/.vscode
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw?
+
+#backend ignore
+backend/.idea
+backend/.ipynb_checkpoints
+backend/.mypy_cache
+backend/.vscode
+backend/__pycache__
+backend/.pytest_cache
+backend/htmlcov
+backend/dist
+backend/site
+backend/.coverage
+backend/coverage.xml
+backend/.netlify
+backend/test.db
+backend/log.txt
+backend/Pipfile.lock
+backend/env3.*
+backend/env
+backend/docs_build
+backend/venv
+backend/docs.zip
+backend/archive.zip
+
+#virtual environtment
+backend/mbti
+# vim temporary files
+*~
+.*.sw?
