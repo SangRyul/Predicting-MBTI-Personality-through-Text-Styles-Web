@@ -5,9 +5,5 @@ https://drive.google.com/drive/folders/19aynE0Ogt48nRjNNv1uNlgl1MzU03uf7?usp=sha
 
 you can download h5 files from here
 and 
-e_i_weights.h5
-f_t_weights.h5
-j_p_weights.h5
-n_s_weights.h5
-
+tf_model.h5
 files should be in this directory

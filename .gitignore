@@ -51,3 +51,7 @@ backend/mbti
 # vim temporary files
 *~
 .*.sw?
+
+#h5 file ignore
+backend/app/models/*.h5
+backend/app/utils/gpt_ckpt/tf_model.h5
